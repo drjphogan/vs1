@@ -1,4 +1,4 @@
-
+// comment added to header
 namespace Example
 {
 	public ref class CLI
