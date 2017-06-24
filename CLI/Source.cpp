@@ -8,7 +8,7 @@ System::Double  Example::CLI::Add_Doubles(System::Double fn1,
 										  System::Double fn2
 										  )
 {
-// comment to look at git fucntionality
+// comment to look at git fucntionality - this bit added after branch taken
 	Vanilla v;
 	v.doSomething();
 	return fn1 + fn2;
